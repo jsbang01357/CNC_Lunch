@@ -1,0 +1,54 @@
+[
+  {
+    "id": "0",
+    "name": "식당 A",
+    "menu": "한식",
+    "price": 18000,
+    "walk": 5,
+    "shrimp": "모름",
+    "handling": "미확인",
+    "noise": "미확인",
+    "source_status": "소음·알레르기 대응 미확인",
+    "checked": "2026-11-09",
+    "drink_included": null
+  },
+  {
+    "id": "1",
+    "name": "식당 B",
+    "menu": "초밥",
+    "price": 23000,
+    "walk": 4,
+    "shrimp": "있음",
+    "handling": "미확인",
+    "noise": "조용함",
+    "source_status": "예산 초과·지난주 메뉴와 겹침",
+    "checked": "2026-11-09",
+    "drink_included": null
+  },
+  {
+    "id": "2",
+    "name": "식당 C",
+    "menu": "면 요리",
+    "price": null,
+    "walk": 7,
+    "shrimp": "모름",
+    "handling": "미확인",
+    "noise": "미확인",
+    "source_status": "가격·알레르기 대응 미확인",
+    "checked": "2026-11-09",
+    "drink_included": null
+  },
+  {
+    "id": "3",
+    "name": "식당 D",
+    "menu": "한식",
+    "price": 20000,
+    "walk": 6,
+    "shrimp": "있음(제외 가능)",
+    "handling": "새우 빼고 조리 가능(전화 확인)",
+    "noise": "보통",
+    "source_status": "알레르기 대응 확인됨·소음 미확인",
+    "checked": "2026-11-09",
+    "drink_included": null
+  }
+]

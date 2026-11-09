@@ -1,0 +1,16 @@
+{
+  "name": "cnc-lunch",
+  "version": "1.2.1",
+  "private": true,
+  "description": "코니춘 6장 독자용 팀 점심 도우미 로컬 실습",
+  "type": "module",
+  "engines": {
+    "node": ">=22.22.0"
+  },
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "start": "node scripts/start.mjs",
+    "dev": "npm start",
+    "test": "npm run build && node scripts/test.mjs"
+  }
+}

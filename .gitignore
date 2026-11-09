@@ -1,0 +1,10 @@
+.runtime/
+dist/
+node_modules/
+.env
+.env.*
+!.env.example
+*.sqlite
+*.sqlite3
+*.sqlite3-*
+.DS_Store
